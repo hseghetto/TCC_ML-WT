@@ -1,5 +1,0 @@
-Date:			2017_02_15
-Case label:    		R
-Temperature:	   	+00
-Sensor scheme:     	1
-Relative humidity:	60%
